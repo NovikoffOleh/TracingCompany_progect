@@ -391,6 +391,7 @@ li {
 
 .img1 {
     border-radius: 1px;
+    cursor: pointer;
 }
 
 .img1:hover {
